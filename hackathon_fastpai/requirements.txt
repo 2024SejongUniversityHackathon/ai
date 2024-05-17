@@ -1,0 +1,7 @@
+transformers
+scikit-learn
+torch
+joblib
+konlpy
+pymupdf
+flask
